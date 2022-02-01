@@ -66,9 +66,7 @@ Jupyter lab was installed during the previous step so you can launch it with thi
 jupyter lab
 ```
 
-After execution, you will see some information printed on the terminal. Usually the lab opens after you type the previous command on temrinal or you might need to authenticate to use Jupyter lab. For this, copy the token that appears on your terminal, head over to [http://localhost:8888/](http://localhost:8888/) and paste it there. Your terminal's output should look very similar to the next image, in which the token has been highlighted for reference:
-
-![Token in terminal](./assets/token.png)
+After execution, you will see some information printed on the terminal. Usually the lab opens after you type the previous command on temrinal or you might need to authenticate to use Jupyter lab. For this, copy the token that appears on your terminal, head over to [http://localhost:8888/](http://localhost:8888/) and paste it there.
 
 ### 4. Running the notebook
 
@@ -76,6 +74,6 @@ Within Jupyter lab you should be in the same directory where you used the `jupyt
 
 Look for the `model.ipynb` file and open it to begin the ungraded lab.
 
-To stop jupyter lab once you are done with the lab just press `Ctrl + C` twice on temrinal.
+To stop jupyter lab once you are done with the lab just press `Ctrl + C` (Windows) or `Cmd + C` (Mac) twice on terminal.
 
 ### And... that's it! You deployed my Machine learning model! :)
