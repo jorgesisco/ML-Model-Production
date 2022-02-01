@@ -13,7 +13,7 @@ As a general note, the commands in this tutorial are meant to be run within a te
 To clone the repo use this command:
 
 ```bash
-git clone INSERT_LINK
+git clone https://github.com/jorgesisco/ML-Model-Production.git
 ```
 
 The `cd` command allows you to change directories. Assuming you are at the directory where you issued the cloning command, type the following on your terminal.
