@@ -8,7 +8,7 @@ This can be done via 1 method: using `Python Virtual Environments`.
 
 If you already have a conda installation available on your computer, we recommend that you use the virtual environment method. If this is not the case, choose the Docker method as it is easier to set up.
 
-As a general note, the commands in this tutorial are meant to be run within a terminal. To begin you need to **clone this repo in your local filesystem and `cd` to the ML-MODEL-PRODUCTION**.
+As a general note, the commands in this tutorial are meant to be run within a terminal. To begin you need to **clone this repo in your local filesystem and `cd` to the ML-Model-Production**.
 
 To clone the repo use this command:
 
@@ -19,7 +19,7 @@ git clone https://github.com/jorgesisco/ML-Model-Production.git
 The `cd` command allows you to change directories. Assuming you are at the directory where you issued the cloning command, type the following on your terminal.
 
 ```bash
-cd ML-MODEL-PRODUCTION
+cd ML-Model-Production
 ```
 
 This will bring you to the project directory.
@@ -50,7 +50,7 @@ At this point, you will do all your libraries installation and work in this envi
 
 ### 2. Installing dependencies using PIP
 
-Before proceeding, double check that you are currently on the `ML-MODEL-PRODUCTION` directory, which includes the `requirements.txt` file. This file lists all the required dependencies and their respective versions. Now use the following command to install the required dependencies:
+Before proceeding, double check that you are currently on the `ML-Model-Production` directory, which includes the `requirements.txt` file. This file lists all the required dependencies and their respective versions. Now use the following command to install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
