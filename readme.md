@@ -24,7 +24,7 @@ cd ML-Model-Production
 
 This will bring you to the project directory.
 
-## Method 1: Python Virtual Environment with Conda
+## Using Python Virtual Environment with Conda
 
 ### Prerequisites: Have [conda](https://docs.conda.io/en/latest/) installed on your local machine.
 
