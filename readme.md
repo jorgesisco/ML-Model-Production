@@ -56,7 +56,7 @@ Before proceeding, double check that you are currently on the `ML-Model-Producti
 pip install -r requirements.txt
 ```
 
-This command can take a while to run depending on the speed of your internet connection. Once this step completes you should be ready to spin up jupyter lab and begin working on the ungraded lab.
+This command can take a while to run depending on the speed of your internet connection. Once this step completes you should be ready to spin up jupyter lab and begin working on the notebook.
 
 ### 3. Launching Jupyter Lab
 
