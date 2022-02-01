@@ -1,0 +1,10 @@
+jupyterlab==
+matplotlib.pyplot==
+seaborn==
+numpy==
+pandas==
+torch==
+scikit-learn==
+transformers==
+tensorflow-hub==
+pycaret==
