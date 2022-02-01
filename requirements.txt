@@ -1,4 +1,4 @@
-jupyterlab==
+jupyterlab==3.1.12
 matplotlib.pyplot==
 seaborn==
 numpy==
@@ -8,3 +8,6 @@ scikit-learn==
 transformers==
 tensorflow-hub==
 pycaret==
+
+
+# Pendiente de instalar las dependencias restantes y anotar la version instalada aca...
