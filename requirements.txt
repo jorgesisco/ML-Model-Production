@@ -1,13 +1,13 @@
 jupyterlab==3.1.12
-matplotlib.pyplot==
-seaborn==
-numpy==
-pandas==
-torch==
-scikit-learn==
-transformers==
-tensorflow-hub==
-pycaret==
+matplotlib.pyplot==3.4.2
+seaborn==0.11.2
+numpy==1.19.5
+pandas==1.3.1
+# torch==
+scikit-learn==1.0.1
+# transformers==
+tensorflow-hub==0.12.0
+# pycaret==
 
 
 # Pendiente de instalar las dependencias restantes y anotar la version instalada aca...
