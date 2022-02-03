@@ -58,6 +58,28 @@ pip install -r requirements.txt
 
 This command can take a while to run depending on the speed of your internet connection. Once this step completes you should be ready to spin up jupyter lab and begin working on the notebook.
 
+Note: After installing dependencies we have to now add virtual env to jupyter lab by doing this:
+
+```bash
+conda install ipykernel
+```
+
+```bash
+ipython kernel install --user --name=<any_name_for_kernel>
+```
+
+```bash
+conda deactivate
+```
+
+an the activate the enviroment again
+
+In case you want to delete kernel with the virtual env:
+
+```bash
+jupyter kernelspec remove <kernel-name>
+```
+
 ### 3. Launching Jupyter Lab
 
 Jupyter lab was installed during the previous step so you can launch it with this command:
