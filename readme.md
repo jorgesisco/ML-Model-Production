@@ -1,4 +1,4 @@
-# Ungraded Lab - Deploying a Deep Learning model
+# Deploying the model
 
 ## Introduction
 
